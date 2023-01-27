@@ -14,4 +14,7 @@ Contents
 
    usage
    anfang
-
+   general
+   autoroles
+   logs
+   
