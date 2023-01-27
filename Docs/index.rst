@@ -1,1 +1,1 @@
-Hallo!
+Basic Help Menu!
