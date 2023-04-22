@@ -14,9 +14,10 @@ sowie die Community Guidelines.
 Falls es Fragen oder Probleme gibt, kann man immer den Entwickler kontaktieren oder den Support Server aufsuchen. 
 
 Eine Info zur Datenverarbeitung:
-Der Bot verarbeitet keine  persönlichen Daten wie eine Adresse oder ähnliches. Es werden Daten wie ein Nutzername oder eien Nutzerid
+Der Bot verarbeitet keine  persönlichen Daten wie eine Adresse oder ähnliches. Es werden Daten wie ein Nutzername oder eine Nutzerid
 für das Ausführen der Befehle, zum Beispiel Musikbefehle für eine kurze Zeit gespeichert. Nutzerids werden für das Levelsystem,
 welches der Bot besitzt, permanent gespeichert. Daten, wie die "Votes" von Top.gg werden von Top.gg selber gespeichert und nicht vom Bot.
+Server und Nutzerbezogenedaten werden auch gespeichert, unter anderem für Bot-Logs (Server und Befehle).
 
 Der Bot speichert seine Daten mit SQlite 3, also auf dem Server, worüber er läuft, also über keinen dritten Anbieter. Lediglich
 der Entwickler einsehen.
