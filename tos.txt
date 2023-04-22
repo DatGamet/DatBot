@@ -12,6 +12,7 @@ Generell hat dieser Bot keine speziellen Regeln, aber man muss sich an die Geset
 sowie die Community Guidelines.
 
 Falls es Fragen oder Probleme gibt, kann man immer den Entwickler kontaktieren oder den Support Server aufsuchen. 
+Sobald ihr den Bot nutzt, sei es auf einem eurer Server oder einen Befehl, stimmt ihr dem Regelwerk und der Datenschutzbestimmung automatisch zu.
 
 Eine Info zur Datenverarbeitung:
 Der Bot verarbeitet keine  persönlichen Daten wie eine Adresse oder ähnliches. Es werden Daten wie ein Nutzername oder eine Nutzerid
