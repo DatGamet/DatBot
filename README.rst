@@ -1,2 +1,0 @@
-# Datbot
-For DatBot.
