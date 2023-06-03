@@ -1,2 +1,1 @@
-hi
-.. image:: ./datbot-1250.png 
+.. image:: ./datbot-1250.png
