@@ -12,4 +12,6 @@ Contents
 
 .. toctree::
 
-   anfang   
+   anfang
+   changelog
+   
