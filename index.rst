@@ -12,9 +12,4 @@ Contents
 
 .. toctree::
 
-   usage
-   anfang
-   general
-   autoroles
-   logs
-   
+   anfang   
