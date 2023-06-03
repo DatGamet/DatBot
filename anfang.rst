@@ -1,1 +1,2 @@
-.. image:: ./datbot-1250.png
+.. image:: datbot.png
+  :alt: Test!
