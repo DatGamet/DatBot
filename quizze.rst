@@ -32,7 +32,7 @@ Zeigt die Einstellungen vom Emojiquiz an.
 ------------------------
 Aktiviert oder deaktiviert das System. Wenn es deaktiviert ist, wird nicht mehr auf das Emojiquiz geachtet. Du benötigst die Rechte, den Server zu verwalten, um den Befehl zu nutzen.
 
-``/emojiquiz vote
+``/emojiquiz vote``
 ------------------------
 Gibt dir einen Link zu der Top.gg Seite, um dort zu voten.
 
@@ -58,6 +58,6 @@ Zeigt die Einstellungen vom Flaggenquiz an.
 ------------------------
 Aktiviert oder deaktiviert das System. Wenn es deaktiviert ist, wird nicht mehr auf das Flaggenquiz geachtet. Du benötigst die Rechte, den Server zu verwalten, um den Befehl zu nutzen.
 
-``/flagquiz vote
+``/flagquiz vote``
 ------------------------
 Gibt dir einen Link zu der Top.gg Seite, um dort zu voten.
