@@ -5,9 +5,9 @@ Slashbefehle
 Befehle nutzen
 ================
 
-DatBot läuft über Slashbefehle. Wenn man ein "/" eingibt, werden einem welche vorgeschlagen, wenn man die Rechte dazu hat.
+DatBot läuft über Slashbefehle. Wenn man ein "/" eingibt, werden einem Befehle vorgeschlagen, wenn man die Rechte dazu hat.
 
-In dieser Dokumentation wird man öfters []-Argumente und <>-Argeumente finden. []-Argumente sind Argumente, die bei Befehlen angegeben werden müssen. <> Argeumente sind optional und müssen nicht angegeben werden. 
+In dieser Dokumentation wird man öfters []-Argumente und <>-Argumente finden. []-Argumente sind Argumente, die bei Befehlen angegeben werden müssen. <> Argeumente sind optional und müssen nicht angegeben werden. 
 
 Befehle finden
 ================
