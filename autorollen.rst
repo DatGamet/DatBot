@@ -35,7 +35,7 @@ Das System checkt, ob Rollen Autorollen sind, die gelöscht wurden. Wenn es welc
 
 ``/autorole deleteall``
 ------------------------
-Dieser Befehl macht es möglich, alle Autorollen zu löschen. Optional kann man auch ``/autorole toggle``verwenden, um das System zu deaktivieren. 
+Dieser Befehl macht es möglich, alle Autorollen zu löschen. Optional kann man auch ``/autorole toggle`` verwenden, um das System zu deaktivieren. 
 
 
 Häufige Fehlerquellen
