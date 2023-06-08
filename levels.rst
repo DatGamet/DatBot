@@ -41,45 +41,6 @@ Zeigt den Rang eines Nutzers an.
 ------------------------
 Teste, ob alles funktioniert. Typische Fehlerquellen werden dort überprüft.
 
-Informationen
-====================
-Das Levelsystem ist so ausgelegt, dass in 60 Sekunden je eine Nachricht gezählt wird. Somit zählt Spam nicht. Man kann die XP / Levels nicht verändern. Mit jedem Level-Up muss man 1.2 mal mehr XP sammeln, als davor.
-
-Befehle
-=======
-``/level channel [channel]``
-------------------------
-In diesem Kanal werden die Levels-Ups gesendet. Du benötigst die Rechte, den Server zu verwalten, um diesen Befehl zu nutzen. Ich muss in diesen Kanal sehen können, dort Nachrichten senden und Links einbetten können.
-
-#. [channel]: In diesem Kanal werden die Levels-Ups gesendet
-
-``/level leaderboard``
-------------------------
-Zeigt die Bestenliste an. Es wird je nach Level sortiert. Mit den Buttons unten kann man zwischen den Seiten wechseln. Pro Seite werden 10 Datensätze angezeigt. Der Button ganz links bringt dich auf die erste Seite. Der Button rechts zeigt eine Seite weiter links. Der Button in der Mitte stoppt das Menu. Der zweite Button von rechts zeigt eine Seite weiter rechts und der Button ganz rechts zeigt die letzte Seite.
-
-``/level message [message]``
-------------------------
-Konfiguriere die Level-Up Nachricht. Du benötigst dafür die Rechte, den Server zu verwalten. Dort gibt es auch folgende Variablen:
-
-#. {guild.id} -> The Guild ID
-#. {guild.name} -> The guild name
-#. {user.name} -> The username
-#. {user.id} -> The user ID
-#. {user.tag} -> The username & tag
-#. {level} -> The new level
-
-#. [message]: Dies ist die Nachrticht, die gesendet wird, wenn jemand ein Level-Up erreicht.
-
-``/level rank [user]``
-------------------------
-Zeigt den Rang eines Nutzers an. 
-
-#. [user]: Von diesem Nutzer wird der Rang angezeigt
-
-``/level toggle``
-------------------------
-Aktiviert oder deaktiviert das Level-System. 
-
 ``/level roles add [role] [level]``
 ------------------------
 Fügt eine Rollen-Belohnung hinzu. Du benötigst dafür die Rechte, den Server zu verwalten, um diesen Befehl zu nutzen. 
