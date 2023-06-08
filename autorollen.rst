@@ -11,6 +11,7 @@ Befehle
 ================
 .. /autorole add:
 ``/autorole add``
+------------------------
 Mit ``/autorole add``fügt man eine Autorolle hin zu. Diese wird ab dann automatisch vergeben. Der Bot muss dafür über der Rolle sein und die Rechte besitzen, Rollen zu verwalten. Dies wird auch schon beim hinzufügen abgefragt. ``@everyone`` und  Rollen, die von Bots oder Integrationen verwaltet werden, kann man nicht hinzufügen.
 ------------------------
 .. /autorole list:
