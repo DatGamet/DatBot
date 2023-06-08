@@ -18,3 +18,11 @@ Upcoming
 - Autodelete, Autopost & Autoreact
 - Memory
 - Bug fixes & Befehlsänderungem
+
+Navigation
+-------
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   *
