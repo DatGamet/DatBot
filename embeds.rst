@@ -33,6 +33,6 @@ Bearbeite ein bereits existierendes Embed von DatBot. Nachdem du dieses bearbeit
 Fehler
 ======
 
-#* DatBot benötigt die Rechte, Links einzubetten, den jeweiligen Kanal zu sehen und Nachrichten zu senden.
+DatBot benötigt die Rechte, Links einzubetten, den jeweiligen Kanal zu sehen und Nachrichten zu senden.
 
-Wenn alles davon nicht geholfen hat, kann man den Support hier kontaktieren: https://discord.gg/BQumAujuvk
+Wenn dies nicht hilft, kann man den Support hier kontaktieren: https://discord.gg/BQumAujuvk
