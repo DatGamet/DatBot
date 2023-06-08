@@ -9,17 +9,17 @@ Um diese Befehle zu nutzen, benötigt man die Rechte, Rollen zu verwalten.
 
 Befehle
 ================
-``/autorole add``
+``/autorole add [role]``
 ------------------------
-Mit ``/autorole add`` fügt man eine Autorolle hin zu. Diese wird ab dann automatisch vergeben. Der Bot muss dafür über der Rolle sein und die Rechte besitzen, Rollen zu verwalten. Dies wird auch schon beim hinzufügen abgefragt. ``@everyone`` und  Rollen, die von Bots oder Integrationen verwaltet werden, kann man nicht hinzufügen.
+Mit ``/autorole add`` fügt man eine Autorolle hin zu. Diese wird ab dann automatisch vergeben. Der Bot muss dafür über der Rolle sein und die Rechte besitzen, Rollen zu verwalten. Dies wird auch schon beim hinzufügen abgefragt. ``@everyone`` und  Rollen, die von Bots oder Integrationen verwaltet werden, kann man nicht hinzufügen. Als [role] muss eine Rolle angegeben werden.
 
 ``/autorole list``
 ------------------------
 Mit ``/autorole list`` kann man alle Autorollen anzeigen lassen. Rollen, die gelöscht wurden, werden nicht angezeigt. 
 
-``/autorole remove``
+``/autorole remove [role]``
 ------------------------
-Mit ``/autorole remove`` kann man eine Autorolle entfernen. Diese wird dann nicht mehr automatisch hinzugefügt. 
+Mit ``/autorole remove`` kann man eine Autorolle entfernen. Diese wird dann nicht mehr automatisch hinzugefügt. Als [role] muss eine Rolle angegeben werden
 
 ``/autorole test``
 ------------------------
