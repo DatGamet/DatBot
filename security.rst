@@ -16,13 +16,13 @@ Mit diesem Befehl kannst du deinen Server auf Konten überprüfen, die gefährli
 ------------------------
 In diesen Kanal werden die Joingate-Benachrichtigungen gesendet. Du benötigst die Rechte, den Server zu verwalten, um diesen Befehl zu nutzen. DatBot muss in diesem Kanal Webhooks verwalten können.
 
-#. [channel}: In diesen Kanal werden die Joingate-Benachrichtigungen gesendet
+- [channel}: In diesen Kanal werden die Joingate-Benachrichtigungen gesendet
 
 ``/security joingate minage [days]``
 ------------------------
 Setze ein Mindestalter eines Kontos fest. Wenn dieses Mindestalter über dem Kontoalter ist, quasi das Konto zu jung ist, wird eine Benachrichtigung gesendet. 
 
-#. Die Anzahl an Tagen, wie alt das Konto sein soll.
+- Die Anzahl an Tagen, wie alt das Konto sein soll.
 
 ``/security joingate toggle``
 ------------------------
