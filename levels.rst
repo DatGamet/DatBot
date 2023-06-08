@@ -12,7 +12,7 @@ Befehle
 ------------------------
 In diesem Kanal werden die Levels-Ups gesendet. Du benötigst die Rechte, den Server zu verwalten, um diesen Befehl zu nutzen. Ich muss in diesen Kanal sehen können, dort Nachrichten senden und Links einbetten können.
 
-#. [channel]: In diesem Kanal werden die Levels-Ups gesendet
+- [channel]: In diesem Kanal werden die Levels-Ups gesendet
 
 ``/level leaderboard``
 ------------------------
@@ -22,20 +22,20 @@ Zeigt die Bestenliste an. Es wird je nach Level sortiert. Mit den Buttons unten 
 ------------------------
 Konfiguriere die Level-Up Nachricht. Du benötigst dafür die Rechte, den Server zu verwalten. Dort gibt es auch folgende Variablen:
 
-#. {guild.id} -> The Guild ID
-#. {guild.name} -> The guild name
-#. {user.name} -> The username
-#. {user.id} -> The user ID
-#. {user.tag} -> The username & tag
-#. {level} -> The new level
+- {guild.id} -> The Guild ID
+- {guild.name} -> The guild name
+- {user.name} -> The username
+- {user.id} -> The user ID
+- {user.tag} -> The username & tag
+- {level} -> The new level
 
-#. [message]: Dies ist die Nachrticht, die gesendet wird, wenn jemand ein Level-Up erreicht.
+- [message]: Dies ist die Nachrticht, die gesendet wird, wenn jemand ein Level-Up erreicht.
 
 ``/level rank [user]``
 ------------------------
 Zeigt den Rang eines Nutzers an. 
 
-#. [user]: Von diesem Nutzer wird der Rang angezeigt
+- [user]: Von diesem Nutzer wird der Rang angezeigt
 
 ``/level test``
 ------------------------
@@ -45,8 +45,8 @@ Teste, ob alles funktioniert. Typische Fehlerquellen werden dort überprüft.
 ------------------------
 Fügt eine Rollen-Belohnung hinzu. Du benötigst dafür die Rechte, den Server zu verwalten, um diesen Befehl zu nutzen. 
 
-#. [role]: Diese Rolle ist die Rolle, die vergeben wird, wenn das Level aus dem [level]-Argument erreicht wird.
-#. [level]: Bei diesem Level wird die Rolle vergeben
+- [role]: Diese Rolle ist die Rolle, die vergeben wird, wenn das Level aus dem [level]-Argument erreicht wird.
+- [level]: Bei diesem Level wird die Rolle vergeben
 
 ``/level roles list``
 ------------------------
@@ -56,8 +56,8 @@ Zeigt alle Rollenbelohnungen mit dem dazugehörigen Level an. Rollen, die gelös
 ------------------------
 Entfernt eine Rollen-Belohnung. Du benötigst dafür die Rechte, den Server zu verwalten, um diesen Befehl zu nutzen. 
 
-#. [role]: Die Rolle, die entfernt werden soll.
-#. [level]: Bei diesem Level wird die Rolle vergeben
+- [role]: Die Rolle, die entfernt werden soll.
+- [level]: Bei diesem Level wird die Rolle vergeben
 
 ``/level roles deleteall``
 ------------------------
@@ -73,17 +73,17 @@ Level-Ups & Benachrichtigungen
 ------------------------
 Die Level-Up Benachrichtigungen werden immer gesendet, wenn ein Nutzer ein Level mehr erreicht.
 
-#. Es kann sein, dass der Bot keine Rechte hat, Links einzubetten, Nachrichten zu senden oder den Kanal zu sehen.
-#. Es kann sein, dass das Levelsystem deaktiviert ist. Dies kann man mit ``/level toggle`` aktivieren.
-#. Es kann sein, dass eine weitere nachricht gesendet werden muss, damit die Nachricht kommt.
+- Es kann sein, dass der Bot keine Rechte hat, Links einzubetten, Nachrichten zu senden oder den Kanal zu sehen.
+- Es kann sein, dass das Levelsystem deaktiviert ist. Dies kann man mit ``/level toggle`` aktivieren.
+- Es kann sein, dass eine weitere nachricht gesendet werden muss, damit die Nachricht kommt.
 
 Falls nichts geholfen hat kannst du dem Support Server beitreten: https://discord.gg/BQumAujuvk
 
 XP
 ---------
 
-#. Es kann sein, dass das Levelsystem deaktiviert ist. Dies kann man mit ``/level toggle`` aktivieren.
-#. Es kann sein, dass der Bot den Kanal nicht sieht.
+- Es kann sein, dass das Levelsystem deaktiviert ist. Dies kann man mit ``/level toggle`` aktivieren.
+- Es kann sein, dass der Bot den Kanal nicht sieht.
 
 Falls nichts geholfen hat kannst du dem Support Server beitreten: https://discord.gg/BQumAujuvk
 
