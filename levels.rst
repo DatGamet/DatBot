@@ -104,11 +104,11 @@ Entfernt eine Rollen-Belohnung. Du benötigst dafür die Rechte, den Server zu v
 
 ``/level roles deleteall``
 ------------------------
-Löscht alle Rollenbelohnungen. Alternativ kann man auch ``/leves roles toggle`` nutzen.
+Löscht alle Rollenbelohnungen. Alternativ kann man auch ``/leves roles toggle`` nutzen. Du benötigst dafür die Rechte, den Server zu verwalten, um diesen Befehl zu nutzen. 
 
 ``/level roles toggle``
 ------------------------
-Aktiviert oder deaktiviert die Rollenbelohnungen. 
+Aktiviert oder deaktiviert die Rollenbelohnungen.  Du benötigst dafür die Rechte, den Server zu verwalten, um diesen Befehl zu nutzen. 
 
 Fehler
 ==========
