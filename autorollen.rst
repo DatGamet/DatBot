@@ -9,37 +9,30 @@ Um diese Befehle zu nutzen, benötigt man die Rechte, Rollen zu verwalten.
 
 Befehle
 ================
-.. /autorole add:
 ``/autorole add``
 ------------------------
 Mit ``/autorole add``fügt man eine Autorolle hin zu. Diese wird ab dann automatisch vergeben. Der Bot muss dafür über der Rolle sein und die Rechte besitzen, Rollen zu verwalten. Dies wird auch schon beim hinzufügen abgefragt. ``@everyone`` und  Rollen, die von Bots oder Integrationen verwaltet werden, kann man nicht hinzufügen.
 ------------------------
-.. /autorole list:
 ``/autorole list``
 ------------------------
 Mit ``/autorole list``kann man alle Autorollen anzeigen lassen. Rollen, die gelöscht wurden, werden nicht angezeigt. 
 ------------------------
-.. /autorole remove:
 ``/autorole remove``
 ------------------------
 Mit ``/autorole remove`` kann man eine Autorolle entfernen. Diese wird dann nicht mehr automatisch hinzugefügt. 
 ------------------------
-.. /autorole test:
 ``/autorole test``
 ------------------------
 Da es viele Fehlerquellen geben kann, kann man mit ``/autorole test`` das System testen. Viele Fehlerquellen werden überprüft und an den Nutzer weitergegeben. 
 ------------------------
-.. /autorole toggle:
 ``/autorole toggle``
 ----------------------
 Aktiviert oder deaktiviert das System. Wenn das System deaktiviert ist, werden keine Autorollen mehr vergeben. 
 ------------------------
-.. /autorole fix:
 ``/autorole fix``
 ------------------------
 Das System checkt, ob Rollen Autorollen sind, die gelöscht wurden. Wenn es welche gibt, werden diese entfernt.
 ------------------------
-.. /autorole deleteall:
 ``/autorole deleteall``
 ------------------------
 Dieser Befehl macht es möglich, alle Autorollen zu löschen. Optional kann man auch ``/autorole toggle``verwenden, um das System zu deaktivieren. 
