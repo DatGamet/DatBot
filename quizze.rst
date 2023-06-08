@@ -38,26 +38,26 @@ Gibt dir einen Link zu der Top.gg Seite, um dort zu voten.
 
 ``/flagquiz channel [channel]``
 ------------------------
-Setze den Kanal für das Emojiquiz. Du benötigst dafür die Rechte, Kanäle zu verwalten. Der Bot muss den Kanal sehen können, Nachrichten senden können und Links einbetten können. Wenn der Bot Nachrichten verwalten kann, werden die Nachrichten in dem Kanal gelöscht, sobald die Lösung erraten wurde oder geskippt wurde.  
+Setze den Kanal für das Flaggenquiz Du benötigst dafür die Rechte, Kanäle zu verwalten. Der Bot muss den Kanal sehen können, Nachrichten senden können und Links einbetten können. Wenn der Bot Nachrichten verwalten kann, werden die Nachrichten in dem Kanal gelöscht, sobald die Lösung erraten wurde oder geskippt wurde.  
 
 #. [channel]: Setze den Kanal für das Emojiquiz.
 
-``/emojiquiz fix``
+``/flagquiz fix``
 ------------------------
 Checkt das System durch. Wenn es nicht funktioniert, nutze diesen Befehl. Mit diesem Befehl kann man Fehler herausfinden.
 
-``/emojiquiz help``
+``/flagquiz help``
 ------------------------
 Im Prinzip ein FAQ. Häufige Fragen werden dort beantwortet.
 
-``/emojiquiz settings``
+``/flagquiz settings``
 ------------------------
-Zeigt die Einstellungen vom Emojiquiz an. 
+Zeigt die Einstellungen vom Flaggenquiz an. 
 
-``/emojiquiz toggle``
+``/flagquiz toggle``
 ------------------------
-Aktiviert oder deaktiviert das System. Wenn es deaktiviert ist, wird nicht mehr auf das Emojiquiz geachtet. Du benötigst die Rechte, den Server zu verwalten, um den Befehl zu nutzen.
+Aktiviert oder deaktiviert das System. Wenn es deaktiviert ist, wird nicht mehr auf das Flaggenquiz geachtet. Du benötigst die Rechte, den Server zu verwalten, um den Befehl zu nutzen.
 
-``/emojiquiz vote
+``/flagquiz vote
 ------------------------
 Gibt dir einen Link zu der Top.gg Seite, um dort zu voten.
