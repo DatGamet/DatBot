@@ -1,5 +1,5 @@
 *******
-Befehle
+Slashbefehle
 *******
 
 Befehle nutzen
