@@ -41,10 +41,6 @@ Zeigt den Rang eines Nutzers an.
 ------------------------
 Teste, ob alles funktioniert. Typische Fehlerquellen werden dort überprüft.
 
-*****
-Level
-*****
-
 Informationen
 ====================
 Das Levelsystem ist so ausgelegt, dass in 60 Sekunden je eine Nachricht gezählt wird. Somit zählt Spam nicht. Man kann die XP / Levels nicht verändern. Mit jedem Level-Up muss man 1.2 mal mehr XP sammeln, als davor.
