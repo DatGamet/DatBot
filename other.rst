@@ -16,7 +16,7 @@ Richte einen Kanal für Statusupdates und Errorlogs ein. Die Errorlogs sind leid
 ----------------
 Kopiert ein Emoji von einem anderen Server.
 
-#* [emoji]: Dies ist das Emoji. Es darf kein Standardemoji sein.
+#. [emoji]: Dies ist das Emoji. Es darf kein Standardemoji sein.
 
 ``/random user``
 ----------------
@@ -30,8 +30,8 @@ Gibt "Kopf" oder "Zahl" aus.
 ----------------
 Gibt eine zufällige Zahl aus.
 
-#* [min]: Dies ist das Minimum, also wie groß die Zahl mindestens sein muss.
-#* [max]: Dies ist das Maximum, also wie groß wie Zahl maximal sein darf.
+#. [min]: Dies ist das Minimum, also wie groß die Zahl mindestens sein muss.
+#. [max]: Dies ist das Maximum, also wie groß wie Zahl maximal sein darf.
 
 ``/random avatar``
 ----------------
