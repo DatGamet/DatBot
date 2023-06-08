@@ -14,7 +14,7 @@ Befehle
 ------------------------
 Setze den Kanal für das Emojiquiz. Du benötigst dafür die Rechte, Kanäle zu verwalten. Der Bot muss den Kanal sehen können, Nachrichten senden können und Links einbetten können. Wenn der Bot Nachrichten verwalten kann, werden die Nachrichten in dem Kanal gelöscht, sobald die Lösung erraten wurde oder geskippt wurde.  
 
-#. [channel]: Setze den Kanal für das Emojiquiz.
+- [channel]: Setze den Kanal für das Emojiquiz.
 
 ``/emojiquiz fix``
 ------------------------
@@ -40,7 +40,7 @@ Gibt dir einen Link zu der Top.gg Seite, um dort zu voten.
 ------------------------
 Setze den Kanal für das Flaggenquiz Du benötigst dafür die Rechte, Kanäle zu verwalten. Der Bot muss den Kanal sehen können, Nachrichten senden können und Links einbetten können. Wenn der Bot Nachrichten verwalten kann, werden die Nachrichten in dem Kanal gelöscht, sobald die Lösung erraten wurde oder geskippt wurde.  
 
-#. [channel]: Setze den Kanal für das Emojiquiz.
+- [channel]: Setze den Kanal für das Emojiquiz.
 
 ``/flagquiz fix``
 ------------------------
