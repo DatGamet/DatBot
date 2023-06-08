@@ -16,19 +16,19 @@ Erstelle dein eigenes Embed. Mit dem obersten Selectmenu kannst du einen Part de
 ----------------
 Kopiere ein Embed. Dieses kann auch von einem anderen Bot sein. Dieses Embed kannst du dann auch bearbeiten.
 
-#. [message_link]: Gebe hier den Nachrichtenlink von einem Embed an.
+- [message_link]: Gebe hier den Nachrichtenlink von einem Embed an.
 
 ``/embeds delete [message_link]``
 ----------------
 Lösche ein Embed von DatBot.
 
-#. [message_link]: Gebe hier den Nachrichtenlink von einem Embed an. Dieses Embed muss von DatBot sein.
+- [message_link]: Gebe hier den Nachrichtenlink von einem Embed an. Dieses Embed muss von DatBot sein.
 
 ``/embeds edit [message_link]``
 ----------------
 Bearbeite ein bereits existierendes Embed von DatBot. Nachdem du dieses bearbeitet hast, kannst du mit dem Button "Commit changes" diese Änderungen speichern.
 
-#. [message_link]: Gebe hier den Nachrichtenlink von einem Embed an. Dieses Embed muss von DatBot sein.
+- [message_link]: Gebe hier den Nachrichtenlink von einem Embed an. Dieses Embed muss von DatBot sein.
 
 Fehler
 ======
