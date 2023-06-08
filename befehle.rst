@@ -2,7 +2,7 @@
 Befehle
 *******
 
-Befehle eingeben
+Befehle nutzen
 ================
 
 DatBot läuft über Slashbefehle. Wenn man ein "/" eingibt, werden einem welche vorgeschlagen, wenn man die Rechte dazu hat.
