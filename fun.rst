@@ -9,8 +9,8 @@ Befehle
 -----------------------------
 Sendet eine Nachricht, die von dir geschrieben wird. Du benötigst dazu die Rechte, Nachrichten zu verwalten. Rollenpings, ``@everyone`` und ``@here`` sind unterbunden.
 
-#. [message]: Diese Nachricht wird vom Bot wiedergegegben.
-#. <channel>: In diesem kanal wird die Nachricht gesendet.
+- [message]: Diese Nachricht wird vom Bot wiedergegegben.
+- <channel>: In diesem kanal wird die Nachricht gesendet.
 
 ``/meme``
 ---------
