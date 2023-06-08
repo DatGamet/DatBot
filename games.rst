@@ -41,6 +41,10 @@ Siehe Statistiken und Informationen von einem Fortnite Spieler nach.
 
 ``/games fortnite map [type]``
 --------------------
-Siehe Statistiken und Informationen über einen Brawl Stars Klub nach. 
+Zeigt die aktuelle Fortnite Karte an.
 
-#* [tag]: Dies ist das Klub-Kürzel.
+#* [type]: Wenn du "POI's" auswählst, werden die Ortsnamen mit angezeigt, wobei diese bei "Blank" nicht mit angezeigt werden.
+
+``/games fortnite news``
+--------------------
+Zeigt Neuigkeiten rund um Fortnite an.
