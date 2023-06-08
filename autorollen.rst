@@ -42,8 +42,8 @@ Fehler
 ================
 Manchmal funktioniert das System nicht. Dies liegt aber oftmals am Server selber und nicht am Bot:
 
-#.  Nutze ``/autorole test`` und ``/autorole fix``. Viele Fehlerquellen werden dort beachtet.
-#.  Checke die Rollenposition. Eine Rolle von DatBot muss über der Rolle sein, die vergeben werden soll.
-#.  Es kann sein, dass das System deaktiviert ist. Nutze dafür ``/autorole toggle``.
+- Nutze ``/autorole test`` und ``/autorole fix``. Viele Fehlerquellen werden dort beachtet.
+- Checke die Rollenposition. Eine Rolle von DatBot muss über der Rolle sein, die vergeben werden soll.
+- Es kann sein, dass das System deaktiviert ist. Nutze dafür ``/autorole toggle``.
 
 Wenn alles davon nicht geholfen hat, kann man den Support hier kontaktieren: https://discord.gg/BQumAujuvk
