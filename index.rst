@@ -17,6 +17,8 @@ Neues
 - Überarbeitung vom `/help` Menu
 - `/level leaderboard` sortiert nun auch XP, nicht nur Level
 - Das Emojqiuz ist nun öffentlich verfügbar
+- v1.10 kommt am 24.06.2023 um 15 Uhr raus.
+- Die Endelon Befehle sind nun öffentlich verfügbar
 
 Upcoming
 ----------------
