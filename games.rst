@@ -48,3 +48,25 @@ Zeigt die aktuelle Fortnite Karte an.
 ``/games fortnite news``
 --------------------
 Zeigt Neuigkeiten rund um Fortnite an.
+
+``/games clashofclans profile <tag>``
+--------------------
+Zeigt Informationen zu einem Clash of Clans Konto an. Siehe auch `/account login clashofclans`.
+
+- <tag>: Gebe hier das InGame Kürzel an.
+
+``/games clashofclans clan <tag>``
+--------------------
+Zeigt Informationen zu einem Clash of Clans Klan an.
+
+- <tag>: Gebe hier das Klan-Kürzel an.
+
+``/account login clashofclans <tag>``
+--------------------
+Verbinde deinen Discord Konto mit deinem Clash of Clans Konto. Der Vorteil ist, dass man für Statistiken nun nicht mehr den Tag angeben muss, dies wird automatisiert.
+
+- <tag>: Gebe hier dein InGame Kürzel an.
+
+``/account logout clashofclans <tag>``
+--------------------
+Entferne die Verknüpfung mit deinem Clash of Clans Konto.
