@@ -28,4 +28,4 @@ Der Bot speichert den Key, den man dort angibt. Wenn man diese löschen möchte,
 Der Bot speichert seine Daten mit SQlite 3, also auf dem Server, worüber er läuft, also über keinen dritten Anbieter. Lediglich
 der Entwickler einsehen.
 
-Infos zum DSGVO (Datenschutzgrundverordnung) findet ihr hier: https://dsgvo-gesetz.de/
+Infos zur DSGVO (Datenschutzgrundverordnung) findet ihr hier: https://dsgvo-gesetz.de/
