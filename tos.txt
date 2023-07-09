@@ -1,31 +1,29 @@
-Hey! Dies sind die Terms of Service von DatBot. Dieser wird von D_Gamet gemacht und verwaltet. 
+What data are we collecting?
+- Account related information and server related information
+- Interaction related data
+- Epic Games API Key and Clash of Clans API Key
 
-Sobald man den Bot nutzt, erklärt man sich mit der Datenschutzerklärung automatisch einverstanden.
+How will we use your data?
+- We will use your data to improve the services and make it easier to use the bot itself
 
-Dies ist ein Discord Bot und somit auch nur für Discord verfügbar. Dieser Bot wird immer besser gemacht und bietet den
-Nutzern eine Vielzahl an Möglichkeiten. 
+Who we share any data with
+- We do not share data with anybody
+- We do not sell data
 
-Um diesem Bot zu nutzen, müsst ihr einen Discord Account besitzen und in Discord rein kommen, also Internet haben.
+Where is the data stored?
+- The data is stored at Endelon Hosting
 
-Dieser Bot ist soweit für alle nutzbar, der Entwickler hält sich aber immer das Recht vor, einen Server aus einem unbestimmten
-auszuschließen. Gleiches gilt für Nutzer.
+How do we collect the data?
+- Discord API
+- Clash of Clans API
+- Brawl Stars API
+- Epic Games API
+- Valorant API
 
-Generell hat dieser Bot keine speziellen Regeln, aber man muss sich an die Gesetze im Land halten und an die Discord Terms of Service
-sowie die Community Guidelines.
+Your rights
+- Deletion: You are able to delete the data we collected from you
+- Access: You are able to request copies of your data
 
-Falls es Fragen oder Probleme gibt, kann man immer den Entwickler kontaktieren oder den Support Server aufsuchen. 
-Sobald ihr den Bot nutzt, sei es auf einem eurer Server oder einen Befehl, stimmt ihr dem Regelwerk und der Datenschutzbestimmung automatisch zu.
-
-Eine Info zur Datenverarbeitung:
-Der Bot verarbeitet keine  persönlichen Daten wie eine Adresse oder ähnliches. Es werden Daten wie ein Nutzername oder eine Nutzerid
-für das Ausführen der Befehle, zum Beispiel Musikbefehle für eine kurze Zeit gespeichert. Nutzerids werden für das Levelsystem,
-welches der Bot besitzt, permanent gespeichert. Daten, wie die "Votes" von Top.gg werden von Top.gg selber gespeichert und nicht vom Bot.
-Server und Nutzerbezogenedaten werden auch gespeichert, unter anderem für Bot-Logs (Server und Befehle).
-
-Zu den Account:
-Der Bot speichert den Key, den man dort angibt. Wenn man diese löschen möchte, kann man dies über die angegebenen Befehle machen. Dadurch werden alle Daten unwiederruflich gelöscht.
-
-Der Bot speichert seine Daten mit SQlite 3, also auf dem Server, worüber er läuft, also über keinen dritten Anbieter. Lediglich
-der Entwickler einsehen.
-
-Infos zur DSGVO (Datenschutzgrundverordnung) findet ihr hier: https://dsgvo-gesetz.de/
+Contact:
+- Support Server: https://discord.gg/BQumAujuvk
+- Direct Message (Discord): d_gamet
