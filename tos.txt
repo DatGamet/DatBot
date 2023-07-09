@@ -4,7 +4,7 @@ What data are we collecting?
 - Epic Games API Key and Clash of Clans API Key
 
 How will we use your data?
-- We will use your data to improve the services and make it easier to use the bot itself
+- We will use the data to improve the services and make it easier to use the bot itself
 
 Who we share any data with
 - We do not share data with anybody
