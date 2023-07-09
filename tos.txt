@@ -1,4 +1,6 @@
-Hey! Dies sind die Terms of Service von DatBot. Dieser wird von D_Gamet#0001 gemacht und verwaltet. 
+Hey! Dies sind die Terms of Service von DatBot. Dieser wird von D_Gamet gemacht und verwaltet. 
+
+Sobald man den Bot nutzt, erklärt man sich mit der Datenschutzerklärung automatisch einverstanden.
 
 Dies ist ein Discord Bot und somit auch nur für Discord verfügbar. Dieser Bot wird immer besser gemacht und bietet den
 Nutzern eine Vielzahl an Möglichkeiten. 
@@ -19,6 +21,9 @@ Der Bot verarbeitet keine  persönlichen Daten wie eine Adresse oder ähnliches.
 für das Ausführen der Befehle, zum Beispiel Musikbefehle für eine kurze Zeit gespeichert. Nutzerids werden für das Levelsystem,
 welches der Bot besitzt, permanent gespeichert. Daten, wie die "Votes" von Top.gg werden von Top.gg selber gespeichert und nicht vom Bot.
 Server und Nutzerbezogenedaten werden auch gespeichert, unter anderem für Bot-Logs (Server und Befehle).
+
+Zu den Account:
+Der Bot speichert den Key, den man dort angibt. Wenn man diese löschen möchte, kann man dies über die angegebenen Befehle machen. Dadurch werden alle Daten unwiederruflich gelöscht.
 
 Der Bot speichert seine Daten mit SQlite 3, also auf dem Server, worüber er läuft, also über keinen dritten Anbieter. Lediglich
 der Entwickler einsehen.
