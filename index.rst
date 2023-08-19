@@ -3,25 +3,26 @@ DatBot's Dokumentation
 Features
 ----------------
 - Autorollen
+- Autopublish
 - Emojiquiz & Flaggenquiz
 - Moderation & Sicherheit
-- Informationen
+- Informationen & Utility
 - Levelsystem & Belohnungen
 - Logging System
-- Spielebefehle (TicTacToe, Brawl Stars und Fortnite)
-- Spaß
+- Spielebefehle (TicTacToe, Brawl Stars, Clash of Clans, Valorant und Fortnite)
+- Fun
 
 NEUES!
 ----------------
-- v1.10 ist am 24.06.2023 um 15 Uhr herausgekommen.
+- v1.11 ist am 13.08.2023 herausgekommen.
 
 Upcoming
 ----------------
-- Twitch Stream Benachrichtigungen
 - Youtube Upload Benachrichtigungen
-- Autodelete, Autopost & Autoreact
+- Autodelete & Autoreact
 - Memory
-- Bug fixes & Befehlsänderungen
+- TempVoice
+- Mehr Sprachen: Dänisch, Schwedisch, Russisch, Spanisch
 
 Navigation
 -------
