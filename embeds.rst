@@ -30,6 +30,13 @@ Bearbeite ein bereits existierendes Embed von DatBot. Nachdem du dieses bearbeit
 
 - [message_link]: Gebe hier den Nachrichtenlink von einem Embed an. Dieses Embed muss von DatBot sein.
 
+
+``/embeds export [message_link]``
+----------------
+Exportiere den JSON Code eines Embeds.
+
+- [message_link]: Gebe hier den Nachrichtenlink von einem Embed an.
+
 Fehler
 ======
 
