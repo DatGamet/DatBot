@@ -1,5 +1,10 @@
-DatBot's Dokumentation
+[Zurzeit nicht aktuell] DatBot's Dokumentation
 ======================
+
+Warnung
+--------
+- Die Dokumentation ist zurzeit nicht aktuell
+
 Features
 ----------------
 - Autorollen
