@@ -57,7 +57,7 @@ Zeigt Informationen über den Server an, auf dem der Befehl genutzt wird.
 
 ``/info user``
 ------------------------
-Zeigt Informationen über einen Nutzer an. Es kann auch eine ID angegeben werde.
+Zeigt Informationen über einen Nutzer an. Es kann auch eine ID angegeben werden.
 
 ``/info channel``
 ------------------------
