@@ -9,11 +9,7 @@ Mit den Informationsbefehlen kannst du dir Informationen über etwas ausgeben la
 
 Befehle
 ================
-``/911``
-------------------------
-Dieser Befehl zeigt Informationen über die Terroranschläge vom 11. September 2001 an. Dieser Befehl enthält sensitive Inhalte. 
-
-``/avatar guild``
+``/avatar server``
 ------------------------
 Zeigt das Avatar eines Servers an. Man kann auch das Format (.png, .jpg, .jpeg, .webp) und die Größe (128px, 256px, 512px, 1028px, 2048px, 4096px) auswählen.
 
