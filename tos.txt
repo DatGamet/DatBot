@@ -1,4 +1,4 @@
-Last update: July 09th, 2023
+Last update: September 13th, 2023
 
 What data are we collecting?
 - Account related information and server related information
