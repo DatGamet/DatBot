@@ -3,12 +3,11 @@ Last update: July 09th, 2023
 What data are we collecting?
 - Account related information and server related information
 - Interaction related data
-- Epic Games API Key and Clash of Clans API Key
+- Clash of Clans API Key
 - Valorant Account related data (PUUID)
 
 How will we use your data?
 - We will use the data to improve the services and make it easier to use the bot itself
-- We will use the data to make some VALORANT useable 
 
 Who we share any data with
 - We do not share data with anybody
