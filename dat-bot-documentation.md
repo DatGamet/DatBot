@@ -20,6 +20,6 @@ Dat Bot is a feature-rich Discord bot:
 
 > \[Support]\(https://discord.gg/BQumAujuvk)
 >
-> \[Invite]\([https://discord.com/api/oauth2/authorize?client\_id=965903240384376872\&permissions=274878295233\&scope=applications.commands%20bot](https://discord.com/api/oauth2/authorize?client\_id=965903240384376872\&permissions=274878295233\&scope=applications.commands%20bot))
+ \[Invite]\([https://discord.com/api/oauth2/authorize?client\_id=965903240384376872\&permissions=274878295233\&scope=applications.commands%20bot](https://discord.com/api/oauth2/authorize?client\_id=965903240384376872\&permissions=274878295233\&scope=applications.commands%20bot))
 >
 > \[App Directory]\([https://discord.com/application-directory/965903240384376872](https://discord.com/application-directory/965903240384376872))
