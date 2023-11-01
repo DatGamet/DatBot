@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
-* [👋 Welcome to A Product](welcome-to-a-product.md)
+* [✨ Getting started](README.md)
+* [🤖 Dat Bot - Documentation](dat-bot-documentation.md)
 
 ## Overview
 

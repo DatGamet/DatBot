@@ -5,5 +5,5 @@ description: >-
   Server](https://discord.gg/BQumAujuvk)
 ---
 
-# Page
+# ✨ Getting started
 
