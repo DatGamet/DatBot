@@ -3,10 +3,12 @@
 * [✨ Getting started](README.md)
 * [🤖 Dat Bot - Documentation](dat-bot-documentation.md)
 
-## Overview
+## Features
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [✨ Features](overview/our-features.md)
+  * [📣 Autopublish](features/our-features/autopublish.md)
+  * [➕ Autorole](features/our-features/autorole.md)
+* [💡 Troubleshooting](features/troubleshooting.md)
 
 ## Product Guides
 
