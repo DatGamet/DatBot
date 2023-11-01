@@ -8,7 +8,7 @@
 * [✨ Features](overview/our-features.md)
   * [📣 Autopublish](features/our-features/autopublish.md)
   * [➕ Autorole](features/our-features/autorole.md)
-* [💡 What we do](overview/what-we-do.md)
+* [💡 Troubleshooting](features/troubleshooting.md)
 
 ## Product Guides
 
