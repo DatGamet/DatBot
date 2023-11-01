@@ -5,9 +5,10 @@
 
 ## Features
 
-* [✨ Features](features/our-features/README.md)
+* [✨ Features](overview/our-features.md)
   * [📣 Autopublish](features/our-features/autopublish.md)
-* [💡 What we do](features/what-we-do.md)
+  * [➕ Autorole](features/our-features/autorole.md)
+* [💡 What we do](overview/what-we-do.md)
 
 ## Product Guides
 
