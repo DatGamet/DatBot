@@ -1,9 +1,6 @@
----
-description: >-
-  > This is the official description for Dat Bot. You can use the command
-  `/help` > You are able to use /help too or join the [Support
-  Server](https://discord.gg/BQumAujuvk)
----
-
 # ✨ Getting started
 
+> ### This is the official documentation for Dat Bot.
+>
+> * You are also able to use `/help`
+> * You are also able to join the [Support Server](https://discord.gg/BQumAujuvk)
