@@ -9,6 +9,8 @@ You can connect your Clash of Clans account and your Valorant account to Dat Bot
 * Clash of Clans: Get information about your profile and your clan more easily
 * VALORANT: View your match history and see the rank of your account more easily
 
+See also [games.md](games.md "mention")
+
 
 
 * `/link clashofclans [tag]`

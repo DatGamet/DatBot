@@ -16,8 +16,10 @@ coverY: 0
 
 * `/endelon everyone [url] <channel>`
   * This command sends a message that allows anyone to start the server specified in the \[url] argument.
-  * Argument \[url]: The Server URL
-  * Argument \<channel>: The message is sent in this channel.
+  * Argument \[url]
+    * The Server URL
+  * Argument \<channel>
+    * The message is sent in this channel.
     * You need the Send Messages permission in this channel.
     * The bot needs the Send Messages, View Channel and Embed Links permission in the channel.
 * `/endelon links`
