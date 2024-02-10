@@ -8,5 +8,19 @@ description: Autopublish is used to publish messages automatically.
 
 ## Commands
 
-<table><thead><tr><th width="241">Command</th><th width="191">Required Permissions</th><th width="174">Arguments</th><th>Use case</th></tr></thead><tbody><tr><td><code>/autopublish add</code></td><td>Manage Messages</td><td><ul><li>channel: The channel which should be an autopublish channel.</li></ul></td><td>Add an autopublish channel.</td></tr><tr><td><code>/autopublish list</code></td><td>Manage Messages</td><td></td><td>Lists all autopublish channels.</td></tr><tr><td><code>/autopublish remove</code></td><td>Manage Messages</td><td><ul><li>channel: The channel you want to remove as an autoupublish channel.</li></ul></td><td>Remove an autopublish channel.</td></tr><tr><td><code>/autopublish test</code></td><td>Manage Messages</td><td></td><td>Test the system</td></tr><tr><td><code>/autopublish toggle</code></td><td>Manage Messages</td><td></td><td>Activates or deactivates the system.</td></tr></tbody></table>
-
+* `/autopublish add [channel]`
+  * Add a channel in which all messages are published immediately.
+  * Argument \[channel]
+    * This channel will be added
+    * The bot needs the View Channel and Manage Messages permission
+    * The channel needs to be an Announcement Channel ([https://support.discord.com/hc/en-us/articles/360032008192-Announcement-Channels](https://support.discord.com/hc/en-us/articles/360032008192-Announcement-Channels))
+* `/autopublish list`
+  * This command will return a list on all autopublish channels.
+* `/autopublish remove [channel]`
+  * Remove an autopublish channel. No more messages will be published in this channel.
+  * Argument \[channel]
+    * This channel must already be an Autopublish channel.
+* `/autopublish test`
+  * If there are problems, you can use this command. Frequent sources of problems are checked here.
+* `/autopublish toggle`
+  * Deactivate the system. If the system is deactivated, no more messages will be published automatically.

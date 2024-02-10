@@ -15,5 +15,5 @@
   * [🎮 Games](features/our-features/games.md)
   * [ℹ Information](features/our-features/information.md)
   * [🖇 Links / Connections](features/our-features/links-connections.md)
-* [👋 Welcome & Leave](features/welcome-and-leave.md)
+  * [👋 Welcome & Leave](features/our-features/welcome-and-leave.md)
 * [💡 Troubleshooting](features/troubleshooting.md)
