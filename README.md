@@ -11,6 +11,6 @@ This documentation is not yet complete. Last update: February 10, 2024
 
 ### News
 
+* #### It has been possible to link your VALORANT account since February 10, 2024. On this day, `/games valorant matchhistory` and `/games valoran rank` were also added.
 * TempVoice will be released soon. Here is a preview: [Preview](https://i.imgur.com/ZMzxG2r.png)
-* In the near future you will be able to connect to your VALORANT account and use `/games valorant matchhistory` and `/games valorant rank`.
 * This documentation is currently being updated. 🎉

@@ -104,9 +104,9 @@ description: >-
   * Argument \[map]
     * This is the name of the map.
     * &#x20;This option supports autocomplete. Suggestions are made to you.
-* \[SOON] `/games valorant matchhistory`
+* \[NEW] `/games valorant matchhistory`
   * The matches in your match history are displayed here. You can select one and get information about this match.
-* \[SOON] `/games valorant rank <riot_name>`
+* \[NEW] `/games valorant rank <riot_name>`
   * Get the all-time rank and the current rank of a player.
   * Argument \<riot\_name>
     * If you have linked your account, you do not have to enter this argument.
