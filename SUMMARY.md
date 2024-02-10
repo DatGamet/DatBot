@@ -1,7 +1,6 @@
 # Table of contents
 
 * [✨ Getting started](README.md)
-* [🤖 Dat Bot - Documentation](dat-bot-documentation.md)
 
 ## Features
 
