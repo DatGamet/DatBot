@@ -1,7 +1,9 @@
 # ✨ Getting started
 
-{% hint style="warning" %}
-This documentation is not yet complete. Last update: February 10, 2024
+
+
+{% hint style="info" %}
+The documentation is ready since February 13th, 2024
 {% endhint %}
 
 ### Additional Information
