@@ -58,6 +58,11 @@ description: >-
   * Receive information about a Creator Code.
   * Argument \[creatorcode]
     * This is the code of the Creator. For example: heystani
+* `/games fortnite leaderboard [type]`
+  * See the top 100 best players.
+  * Argument \[type]
+    * Battle Royale: The top 100 players in Battle Royale mode
+    * Zero Build: The top 100 players in Zero Build mode
 * `/games fortnite map [type]`
   * Receive the current map as an image.
   * Argument \[type]:
