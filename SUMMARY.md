@@ -15,5 +15,6 @@
   * [ℹ Information](features/our-features/information.md)
   * [🆙 Level](features/our-features/level.md)
   * [🖇 Links / Connections](features/our-features/links-connections.md)
+  * [📚 Logging](features/our-features/logging.md)
   * [👋 Welcome & Leave](features/our-features/welcome-and-leave.md)
 * [💡 Troubleshooting](features/troubleshooting.md)

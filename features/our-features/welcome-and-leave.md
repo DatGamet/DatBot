@@ -1,7 +1,7 @@
 # 👋 Welcome & Leave
 
 {% hint style="info" %}
-The structures of Welcome & Leave are very similar
+The structures of Welcome & Leave are very similar.
 {% endhint %}
 
 {% hint style="info" %}
@@ -20,7 +20,9 @@ The term "news" is often used. This refers to the messages that are sent when a 
 
 </div>
 
-##
+### Overlap
+
+* For the other logging see [logging.md](logging.md "mention")
 
 ### Commands
 
