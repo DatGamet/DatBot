@@ -16,5 +16,7 @@
   * [🆙 Level](features/our-features/level.md)
   * [🖇 Links / Connections](features/our-features/links-connections.md)
   * [📚 Logging](features/our-features/logging.md)
+  * [🛡 Security](features/our-features/security.md)
+  * [📺 Twitch](features/our-features/twitch.md)
   * [👋 Welcome & Leave](features/our-features/welcome-and-leave.md)
 * [💡 Troubleshooting](features/troubleshooting.md)
