@@ -20,7 +20,7 @@
   * Edit server
   * Edit the user roles
   * Edit the application command permissions
-  * Editing the nickname or verification bypass of a member
+  * Editing the Verification Bypass, Nickname, Timeout, Server Mute or Server Deafen of a member
   * Delete and edit messages
   * Pin and Unpin messages
 
