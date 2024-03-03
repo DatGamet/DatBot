@@ -2,5 +2,4 @@
 
 ### Information
 
-* The TempVoice system will be released soon.
-* First [Preview](https://imgur.com/ZMzxG2r)
+* The TempVoice System is in closed beta.
