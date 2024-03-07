@@ -40,10 +40,6 @@ The system is in open beta! Try it out with `/tempvoice setup`.
 
 <table><thead><tr><th width="223">Permission</th><th width="81">Admin</th><th width="96">Server Mods</th><th width="244">TempVoice Owner</th></tr></thead><tbody><tr><td>Manage the system settings (server)</td><td>✅</td><td>❌</td><td>❌</td></tr><tr><td>Manage the temporary voice channel</td><td>✅</td><td>✅</td><td>✅</td></tr></tbody></table>
 
-###
-
-##
-
 ### Restrictions
 
 #### Server ban
