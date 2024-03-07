@@ -118,5 +118,15 @@ _<mark style="color:yellow;">Note: To be unbanned, you must ask a server moderat
 
     Manual: Set the creator channel and send the interface manually
 
-/
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-07 170134.png" alt=""><figcaption><p>You have to click on the select menu to select a type.</p></figcaption></figure>
 
+3. If you chose "Quick", the bot will create everything for you. If you want to change settings, use `/tempvoice settings`
+4. If you chose Manual, you first have to choose, which voice channel the creator channel should be.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-07 170418.png" alt=""><figcaption><p>Click on the select menu to choose a voice channel. If it does not show up, type in the name of the voice channel.</p></figcaption></figure>
+
+5. After doing so, you have to send the Interface. Choose a channel and the bot will send the interface in this channel.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-07 170637.png" alt=""><figcaption><p>Click on the select menu to choose a channel. The bot sends the Interface in this channel.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-07 170845.png" alt=""><figcaption><p>The Interface as of March 07, 2024</p></figcaption></figure>
