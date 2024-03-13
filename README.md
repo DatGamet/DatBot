@@ -1,7 +1,5 @@
 # ✨ Getting started
 
-
-
 {% hint style="info" %}
 The documentation is ready since February 13th, 2024
 {% endhint %}
@@ -15,5 +13,5 @@ The documentation is ready since February 13th, 2024
 
 * #### It has been possible to link your VALORANT account since February 10, 2024. On this day, `/games valorant matchhistory` and `/games valorant rank` were also added. [#valorant](features/our-features/games.md#valorant "mention")
 * TempVoice is now in open beta! Try it out now: `/tempvoice setup`! [tempvoice.md](features/our-features/tempvoice.md "mention")
-* Logging got a update: [logging.md](features/our-features/logging.md "mention")
+* Logging got a update: [#update](features/our-features/logging.md#update "mention")
 
