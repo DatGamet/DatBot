@@ -1,5 +1,10 @@
 # 📚 Logging
 
+### Update
+
+* Logging is now supporting multiple channels for multiple logging types
+* Logging is now supporting Private Threads, Public Threads and Forum Posts.
+
 ### Information
 
 * The logs include the following
@@ -30,9 +35,11 @@
 
 ### Commands
 
-* `/logs channel [channel]`
+* `/logs channel [type] [channel]`
   * Set the channel in which the logs are sent.
   * If the system has not yet been deactivated manually, the system is deactivated automatically.
+  * Argument \[type]
+    * Choose the type of logging. The messages related to this type will be sent in \[channel].
   * Argument \[channel]
     * The logs are sent in this channel.
     * The bot needs the "Manage Webhooks" permission in the \[channel]
