@@ -1,4 +1,4 @@
-# ℹ Information
+# ℹ️ Information
 
 ### Avatar
 
@@ -80,3 +80,5 @@
 
 
 
+* `/user profile`
+  * Shows your profile, including Connections ([links-connections.md](links-connections.md "mention")) and Achievements.

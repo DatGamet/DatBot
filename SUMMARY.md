@@ -7,6 +7,7 @@
 * [✨ Features](overview/our-features.md)
   * [➕ Autorole](features/our-features/autorole.md)
   * [📣 Autopublish](features/our-features/autopublish.md)
+  * [⚙️ Confugration](features/our-features/confugration.md)
   * [🎨 Embeds](features/our-features/embeds.md)
   * [🌍 Emoji quiz & Flag quiz](features/our-features/emoji-quiz-and-flag-quiz.md)
   * [💎 Endelon Hosting](features/our-features/endelon-hosting.md)
