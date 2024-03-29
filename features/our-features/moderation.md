@@ -1,6 +1,22 @@
-# ⚙ Moderation
+# ⚙️ Moderation
 
 ## Commands
+
+
+
+### `/copycategory [category] <name> <amount> <change_role_permissions> <role>`
+
+* Clones a category. This is working like the feature from Discord.
+* Argument \[category]
+  * This category is going to be cloned.
+* Argument \<name>
+  * The name of the new category.
+* Argument \<amount>
+  * The category will be cloned this amount of times.
+* Argument \<change\_role\_permissions>
+  * Changes the roles permissions with another role. The role \<role> gets the permissions from this role.
+* Argument \<role>
+  * This role will get the permissions.
 
 ### `/moderation ban [user] <notify_about_punishment> <reason> <delete_messages>`
 
