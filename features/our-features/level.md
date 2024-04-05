@@ -53,8 +53,6 @@
     * This role is to be removed.
   * Argument \[level]
     * The role is assigned at this level.
-* `/level roles toggle`
-  * Deactivate the assignment of level roles. The level system itself is not deactivated, only the level roles. To deactivate the level system, use `/level toggle`.
 * `/level test`
   * If there are problems, use this command. Frequent sources of problems are checked here.
 * `/level toggle`
