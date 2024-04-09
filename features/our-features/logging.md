@@ -4,6 +4,7 @@
 
 * Logging is now supporting multiple channels for multiple logging types
 * Logging is now supporting Private Threads, Public Threads and Forum Posts.
+* Bulkdelete Logging has been added
 
 ### Information
 
@@ -26,7 +27,7 @@
   * Edit the user roles
   * Edit the application command permissions
   * Editing the Verification Bypass, Nickname, Timeout, Server Mute or Server Deafen of a member
-  * Delete and edit messages
+  * Delete, bulkdelete & edit messages
   * Pin and Unpin messages
 
 ### Overlap
