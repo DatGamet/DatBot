@@ -2,10 +2,9 @@
 
 
 
-`/cat fact`
+*   `/cat fact`
 
-* Answers with a random cat fact.
-
+    * Answers with a random cat fact.
 
 
 * `/cat pic`
