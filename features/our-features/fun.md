@@ -1,6 +1,14 @@
 # 😂 Fun
 
-* `/cat`
+
+
+`/cat fact`
+
+* Answers with a random cat fact.
+
+
+
+* `/cat pic`
   * Answers with a random picture of a cat.
 
 
