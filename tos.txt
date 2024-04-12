@@ -1,2 +1,17 @@
 *Privacy Policy can be found [here](https://github.com/DatGamet/DatBot/blob/main/privacy-policy.txt)*
-## Terms of Service
+
+The following explains the terms of service/use for the Discord bot Dat Bot#4582 (ID: 965903240384376872).
+
+The bot is mainly developed by d_gamet. He is responsible for the administration and maintenance.
+
+What is offered?
+Dat Bot is an . It is constantly being developed and improved.
+
+All important information is linked on the support server.
+
+Dat Bot is a bot with various functions, including levels, temporary voice channels, Twitch notifications, logging or moderation.
+All important information can be found on the [support server](https://discord.com/invite/BQumAujuvk).
+
+What is needed to guarantee full functionality?
+All that is required is a Discord account (to use the bot) and an internet-enabled device.
+The use of the website and the use of the bot is not associated with any costs for the user.
