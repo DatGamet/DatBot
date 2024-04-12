@@ -1,33 +1,40 @@
-Last update: September 25th, 2023
+Last update: April 12th, 2024
 
-What data are we collecting?
-- Account related information and server related information
-- Interaction related data
-- Message related data
-- Clash of Clans API Key
-- Valorant Account related data (PUUID)
+What data are we storing?
+- Discord Account related information and server related information.
+ - Server IDs, Role IDs, Channel IDs, User IDs
+ - Settings for the features, but this only uses the server IDs and other data that has nothing to do with the server
+- If you use some commands, data will be saved. Those commands are managing features the bot offers and the data is for saving the settings.
+- Clash of Clans Account Tag.
+- Riot Games Account (PUUID and the Active Shard for VALORANT).
+- Top.gg
+ - How many times you voted.
 
 How will we use your data?
-- We will use the data to improve the services and make it easier to use the bot itself
+- We will use the data to improve the services and make it easier to use the bot itself.
+- We use the data to provide features such as the level system.
 
 Who we share any data with
-- We do not share data with anybody
-- We do not sell data
+- We do not share or sell data.
+- Only the developer and the Endelon Hosting team can access the data.
 
 Where is the data stored?
-- The data is stored at Endelon Hosting
+- The data is stored at Endelon Hosting.
+
+How long do we store your data?
+- The data is stored until deletion is requested.
 
 How do we collect the data?
-- Discord API
-- Clash of Clans API
-- Brawl Stars API
-- Epic Games API
-- Valorant API
+- Discord API.
+- Clash of Clans API.
+- Brawl Stars API.
+- Epic Games API.
+- Riot Games API.
 
 Your rights
-- Deletion: You are able to delete the data we collected from you
-- Access: You are able to request copies of your data
+- Deletion: You are able to delete the data we collected from you.
+- Access: You are able to request copies of your data.
 
 Contact:
-- Support Server: https://discord.gg/BQumAujuvk
-- Direct Message (Discord): d_gamet
+- Support Server: https://discord.gg/BQumAujuvk.
+- Direct Message (Discord): d_gamet.
