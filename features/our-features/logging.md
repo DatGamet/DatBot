@@ -46,3 +46,8 @@
     * The bot needs the "Manage Webhooks" permission in the \[channel]
 * `/logs toggle`
   * Activate or deactivate the logs. If they are deactivated, they will not be sent.
+* `/logs delete [type]`
+  * Removed the channel for a logging type.&#x20;
+  * If you have used a specific channel (All types except "All Logging Types") and a channel for the other logging (Type: All) and you delete the specific channel, it will use the all channel.
+  * Argument \[type]
+    * The type of logging.
