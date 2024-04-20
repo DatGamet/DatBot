@@ -19,7 +19,7 @@ Who we share any data with
 - Only the developer and the Endelon Hosting team can access the data.
 
 Where is the data stored?
-- The data is stored at Endelon Hosting.
+- The data is stored at a private host which is provided by masuowo (223109865197928448) / https://masuowo.xyz/.
 
 How long do we store your data?
 - The data is stored until deletion is requested.
