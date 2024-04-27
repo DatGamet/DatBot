@@ -80,5 +80,8 @@
 
 
 
-* `/user profile`
+* `/user profile <user`
   * Shows your profile, including Connections ([links-connections.md](links-connections.md "mention")) and Achievements.
+  * Argument \<user>
+    * Display the profile of this user.
+    * Must be activated by using `/user settings`
