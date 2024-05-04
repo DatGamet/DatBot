@@ -1,34 +1,39 @@
 # 📚 Logging
 
-### Update
-
-* Logging is now supporting multiple channels for multiple logging types
-* Logging is now supporting Private Threads, Public Threads and Forum Posts.
-* Bulkdelete Logging has been added
-
 ### Information
 
-* The logs include the following
-  * Add or remove bots
-  * Ban, kick and unban users
-  * Create, edit, delete webhooks
-  * Create, delete and edit automoderation rules
-  * Create, delete and edit threads
-  * Create, delete and edit channels
-  * Create, delete and edit roles
-  * Create, delete and edit stickers
-  * Create, delete and edit emojis
-  * Create, delete and edit channel permissions
-  * Create, delete and edit sounds
-  * Create, delete and edit events
-  * Create, delete and edit stages
-  * Create and delete invitations
-  * Edit server
-  * Edit the user roles
-  * Edit the application command permissions
-  * Editing the Verification Bypass, Nickname, Timeout, Server Mute or Server Deafen of a member
-  * Delete, bulkdelete & edit messages
-  * Pin and Unpin messages
+*   The logs include the following
+
+    * Add or remove bots
+    * Ban, kick and unban users
+    * Create, edit, delete webhooks
+    * Create, delete and edit automoderation rules
+    * Create, delete and edit threads
+    * Create, delete and edit channels
+    * Create, delete and edit roles
+    * Create, delete and edit stickers
+    * Create, delete and edit emojis
+    * Create, delete and edit channel permissions
+    * Create, delete and edit sounds
+    * Create, delete and edit events
+    * Create, delete and edit stages
+    * Create and delete invitations
+    * Edit server
+    * Edit the user roles
+    * Edit the application command permissions
+    * Editing the Verification Bypass, Nickname, Timeout, Server Mute or Server Deafen of a member
+    * Delete, bulkdelete & edit messages
+    * Pin and Unpin messages
+    * Remove Reactions & Remove All Reactions
+    * Edit Server Guide
+    * Edit Default Channels
+    * Edit Onboarding
+
+
+* Missing logging types
+  * Edit Server Web Page
+  * Edit Discovery
+  * Edit Monetization
 
 ### Overlap
 
