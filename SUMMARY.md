@@ -1,6 +1,7 @@
 # Table of contents
 
 * [✨ Getting started](README.md)
+* [🌍 Languages](languages.md)
 
 ## Features
 
