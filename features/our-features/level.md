@@ -47,12 +47,15 @@
   * Remove all level roles. This cannot be undone.
 * `/level roles list`
   * This shows you all level roles.
-* `/level roles remove [role] [level]`
+* `/level roles remove [role]`
   * Remove the level role that is assigned at level \[level].
   * Argument \[role]
     * This role is to be removed.
-  * Argument \[level]
-    * The role is assigned at this level.
+* `/level roles sync`
+  * Sync the rewards.
+  * If you added a reward, for exmaple for level 5, a member with level 5 or a higher level will get the reward when leveling up the next time. You can give them the role by using this command.
+* `/level roles debug`
+  * Check for errors and common issues with the system.
 * `/level test`
   * If there are problems, use this command. Frequent sources of problems are checked here.
 * `/level toggle`
