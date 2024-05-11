@@ -1,9 +1,5 @@
 # ✨ Getting started
 
-{% hint style="info" %}
-The documentation is ready since February 13th, 2024
-{% endhint %}
-
 ### Additional Information
 
 * Need more help? Join the [support server](https://discord.gg/BQumAujuvk)
@@ -12,6 +8,5 @@ The documentation is ready since February 13th, 2024
 ### News
 
 * Italian is now supported! 🇮🇹
-* TempVoice is now in open beta! Try it out now: `/tempvoice setup`! [tempvoice.md](features/our-features/tempvoice.md "mention")
-* Logging got a update: [#update](features/our-features/logging.md#update "mention")
+* [v1.13.1.md](features/changelogs/v1.13.1.md "mention") & [v1.13.2.md](features/changelogs/v1.13.2.md "mention")
 

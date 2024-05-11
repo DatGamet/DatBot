@@ -10,16 +10,14 @@ description: >-
 
 * Brawl Stars: View information about a player or a club.
 * Clash of Clans: View information about a player or a clan. You are also able to link your Clash of Clans account and use the commands more easily: `/link clashofclans`
-* Fortnite: View your statistics, get the latest news, take a look at the map or get information about a store item or a creator code.
-* VALORANT: View information about an agent, the current version or a map. You can also log in with `/link valorant` to view your match history and competitive rank.
+* Fortnite: View your statistics, get the latest news, take a look at the map or get information about a store item.
+* VALORANT: View information about an agent, the current version, a map, skin, weapon, playercard, spray, gamemode or season. You can also log in with `/link valorant` to view your match history and competitive rank.
 
 
 
 ### Connections
 
 * You can find out how to connect your account under [links-connections.md](links-connections.md "mention")
-
-
 
 ## Commands
 
@@ -52,17 +50,8 @@ description: >-
 
 
 
-### Fortnite
+## Fortnite
 
-* `/games fortnite creatorcode [creatorcode]`
-  * Receive information about a Creator Code.
-  * Argument \[creatorcode]
-    * This is the code of the Creator. For example: heystani
-* `/games fortnite leaderboard [type]`
-  * See the top 100 best players.
-  * Argument \[type]
-    * Battle Royale: The top 100 players in Battle Royale mode
-    * Zero Build: The top 100 players in Zero Build mode
 * `/games fortnite map [type]`
   * Receive the current map as an image.
   * Argument \[type]:
@@ -85,7 +74,7 @@ description: >-
 
 
 
-### Tic Tac Toe
+## Tic Tac Toe
 
 * `/games tictactoe [difficulty] <opponent>`
   * Play Tic Tac Toe against an opponent or the AI.
@@ -97,7 +86,7 @@ description: >-
 
 
 
-### Valorant
+## Valorant
 
 * `/games valorant agent [agent]`
   * Get information about a specific agent.
@@ -118,4 +107,27 @@ description: >-
     * If you have not linked your account, you must provide this argument. For example: DGamet#1687.
 * `/games valorant version`
   * See information about the current version of the game.
-
+* `/games valorant season [season]`
+  * Get information about a season.
+  * Argument \[season]
+    * Select a season. This option is an autocomplete option.
+* `/games valorant gamemode [gamemode]`
+  * Get information about a gamemode.
+  * Argument \[gamemode]
+    * Select a gamemode.
+* `/games valorant playercard [playercard]`
+  * Get information about a playercard.
+  * Argument \[playercard]
+    * Select a playercard. This option is an autocomplete option.
+* `/games valorant spray [spray]`
+  * Get information about a spray.
+  * Argument \[spray]
+    * Select a spray. This option is an autocomplete option.
+* `/games valorant skin [skin]`
+  * Get information about a skin.
+  * Argument \[skin]
+    * Select a skin. This option is an autocomplete option.
+* `/games valorant weapon`
+  * Get information about a weapon.
+  * Argument \[weapon]
+    * Select a weapon.

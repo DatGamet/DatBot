@@ -28,5 +28,6 @@
   * [📘 v1.12](features/changelogs/v1.12.md)
   * [📕 v1.13](features/changelogs/v1.13.md)
   * [📙 v1.13.1](features/changelogs/v1.13.1.md)
+  * [📓 v1.13.2](features/changelogs/v1.13.2.md)
   * [📔 v1.14](features/changelogs/v1.14.md)
 * [💡 Troubleshooting](features/troubleshooting.md)
