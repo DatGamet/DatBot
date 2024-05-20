@@ -8,9 +8,11 @@
     * Provide the share link of the artist.
     * Spotify -> Search for the artist and click on the profile -> three-point menu -> Share -> Copy link.
     * [https://support.spotify.com/us/artists/article/sharing-your-music/](https://support.spotify.com/us/artists/article/sharing-your-music/)
-* `/spotify myprofile`
+* `/spotify myprofile <ephemeral>`
   * Get information about your profile.&#x20;
   * Your profile has to be connected: [links-connections.md](links-connections.md "mention")
+  * Argument \<ephemeral>
+    * Decide whether the response should be ephemeral or not.
 * `/spotify podcastinfo <podcast_share_link>`
   * Get information about a podcast.
   * Argument \<podcast\_share\_link>
