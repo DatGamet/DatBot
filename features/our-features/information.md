@@ -1,7 +1,5 @@
 # ℹ️ Information
 
-### Avatar
-
 *   `/avatar user <user>`
 
     * Displays the profile picture of a user.&#x20;
@@ -85,3 +83,8 @@
   * Argument \<user>
     * Display the profile of this user.
     * Must be activated by using `/user settings`
+
+
+
+* `/user badges`
+  * Shows all of the Dat Bot badges and how rare they are.
