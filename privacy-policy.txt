@@ -1,4 +1,4 @@
-Last update: April 12th, 2024
+Last update: May 20, 2024
 
 What data are we storing?
 - Discord Account related information and server related information.
@@ -7,6 +7,7 @@ What data are we storing?
 - If you use some commands, data will be saved. Those commands are managing features the bot offers and the data is for saving the settings.
 - Clash of Clans Account Tag.
 - Riot Games Account (PUUID and the Active Shard for VALORANT).
+- Spotify Account ID
 - Top.gg
  - How many times you voted.
 
@@ -15,11 +16,11 @@ How will we use your data?
 - We use the data to provide features such as the level system.
 
 Who we share any data with
-- We do not share or sell data.
-- Only the developer and the Endelon Hosting team can access the data.
+- We do not sell data.
+- Only the developer and masuowo (Discord ID: 223109865197928448) team can access the data.
 
 Where is the data stored?
-- The data is stored at a private host which is provided by masuowo (223109865197928448) / https://masuowo.xyz/.
+- The data is stored at a private host which is provided by masuowo (Discord ID: 223109865197928448) / https://masuowo.xyz/.
 
 How long do we store your data?
 - The data is stored until deletion is requested.
@@ -30,6 +31,7 @@ How do we collect the data?
 - Brawl Stars API.
 - Epic Games API.
 - Riot Games API.
+- Spotify API.
 
 Your rights
 - Deletion: You are able to delete the data we collected from you.
