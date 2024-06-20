@@ -31,4 +31,5 @@
   * [📙 v1.13.1](features/changelogs/v1.13.1.md)
   * [📓 v1.13.2](features/changelogs/v1.13.2.md)
   * [📔 v1.14](features/changelogs/v1.14.md)
+  * [📗 v1.14.1](features/changelogs/v1.14.1.md)
 * [💡 Troubleshooting](features/troubleshooting.md)
